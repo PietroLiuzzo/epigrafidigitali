@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ehreninschrift auf Statuenbasis</title>
+                <title>Iscrizione Onorifica su Base di Statua</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
@@ -27,8 +27,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">unbestimmt</material>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Base di Statua</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">sconosciuto</material>
                                     <p/>
                                     <dimensions unit="cm">
                                         <height/>
@@ -40,7 +40,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">unbestimmt</rs>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">sconosciuto</rs>
 
 
                                 </layout>
@@ -63,7 +63,7 @@
                         </origin>
                         <provenance type="found">  
                             
-                        <placeName ref="http://www.geonames.org/">Roma</placeName><placeName type="modern_region" ref="http://www.geonames.org/"/><placeName type="modernCountry" ref="http://www.geonames.org/countries/it/">Italien</placeName></provenance>
+                        <placeName ref="http://www.geonames.org/">Roma</placeName><placeName type="modern_region" ref="http://www.geonames.org/"/><placeName type="modernCountry" ref="http://www.geonames.org/countries/it/">Italia</placeName></provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -81,7 +81,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Ehreninschrift</term>
+                    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Iscrizione onorifica</term>
                 </keywords>
             </textClass>
             <langUsage>
@@ -105,57 +105,36 @@
         </revisionDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F022299.JPG"><desc>F022299<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
+        <graphic url="../../img/F022299.JPG"><desc>F022299<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
        
    , 2004, 
                C.M. Dig. (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
            </ref></desc></graphic>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F022300.JPG"><desc>F022300<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
+        <graphic url="../../img/F022300.JPG"><desc>F022300<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
        
    , 2006, 
                C.M. Dig. (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
            </ref></desc></graphic>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F022301.JPG"><desc>F022301<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
+        <graphic url="../../img/F022301.JPG"><desc>F022301<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
        
    , 2009, 
                C.M. Dig. (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
            </ref></desc></graphic>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F022302.JPG"><desc>F022302<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
+        <graphic url="../../img/F022302.JPG"><desc>F022302<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
        
    , 2009, 
                C.M. Dig. (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
            </ref></desc></graphic>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F022303.JPG"><desc>F022303<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
+        <graphic url="../../img/F022303.JPG"><desc>F022303<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
        
    , 2009, 
                C.M. Dig. (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
            </ref></desc></graphic>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F022304.JPG"><desc>F022304<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
+        <graphic url="../../img/F022304.JPG"><desc>F022304<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
        
    , 2009, 
                C.M. Dig. (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
            </ref></desc></graphic>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F022305.JPG"><desc>F022305<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
-       
-   , 2009, 
-               C.M. Dig. (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
-           </ref></desc></graphic>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F013854.JPG"><desc>F013854<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
-       
-   , , 
-               DAIR (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
-           </ref></desc></graphic>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F031844.JPG"><desc>F031844<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
-       
-   , 1994, 
-               G.A. Zeichnung (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
-           </ref></desc></graphic>
-        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F032494.JPG"><desc>F032494<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access on Epigraphischen Fotothek Heidelberg
-       
-   , 1991, 
-               G.A. DF (see http://edh-www.adw.uni-heidelberg.de/hilfe/liste/fotographen)
-           </ref></desc></graphic>
-
 
     </facsimile>
     <text>
@@ -184,7 +163,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Castagnol, AE 1976: keine vollständige Textwiedergabe.</p>
+                <p> ATTENZIONE: QUESTO FILE è STATO MODIFICATO A SCOPO DIMOSTRATIVO E NON è UN'EDIZIONE VALIDA DEL TESTO PRESENTATO</p>
             </div>
         </body>
     </text>

@@ -9,8 +9,8 @@
     padding:5px; 
 }
 #section {
+width:800px;
     float:left;
-    text-align:center;
     padding:10px; 
 }
 #footer {
@@ -33,7 +33,7 @@ h2 {
     font-size: 30px;
 }
 
-p {
+p,ul {
     font-size: 14px;
     font-family: "Times New Roman", Times, serif;
 }
