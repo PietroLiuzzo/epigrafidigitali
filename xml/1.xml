@@ -8,6 +8,7 @@
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD002000</idno>
                 <idno type="TM">198358</idno><idno type="localID">HD002000</idno>
+<idno type="myproject">1</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-sa/3.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license.
                     </licence>
