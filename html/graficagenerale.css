@@ -1,39 +1,36 @@
-#header {
+#header{
     color:black;
     text-align:center;
     padding:5px;
 }
-#nav {
+#nav{
     width:300px;
     float:left;
-    padding:5px; 
+    padding:5px;
 }
-#section {
-width:800px;
+#section{
+    width:800px;
     float:left;
-    padding:10px; 
+    padding:10px;
 }
-#footer {
+#footer{
     color:white;
     clear:both;
     text-align:center;
-    padding:5px; 
+    padding:5px;
 }
-
-body {
-    background-color: #b0c4de;
+body{
+    background-color:#b0c4de;
 }
-
-h1 {
-    font-size: 40px;
-font-family: "Arial Unicode MS", Times, serif;
+h1{
+    font-size:40px;
+    font-family:"Arial Unicode MS", Times, serif;
 }
-
-h2 {
-    font-size: 30px;
+h2{
+    font-size:30px;
 }
-
-p,ul {
-    font-size: 14px;
-    font-family: "Times New Roman", Times, serif;
+p,
+ul{
+    font-size:14px;
+    font-family:"Times New Roman", Times, serif;
 }
