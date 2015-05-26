@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPerson>
+   <person>
+      <persName xml:id="">Aradio</persName>
+      <type/>
+      <floruit notBefore="0340" notAfter=""/>
+      <idno/>
+   </person>
+   <person>
+      <persName xml:id="">Lucio Aradio</persName>
+      <type>attested</type>
+      <floruit notBefore="0340" notAfter=""/>
+      <relationship ref="http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD004545"/>
+      <idno/>
+   </person>
+   <person>
+      <persName xml:id="">Septimi Severi 
+                Pii Felicis</persName>
+      <type>ruler</type>
+      <floruit notBefore="0211" notAfter=""/>
+      <idno/>
+   </person>
+</listPerson>

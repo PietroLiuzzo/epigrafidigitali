@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listNym>
+   <nym xml:id="">
+      <form type="lemma">Aradio</form>
+   </nym>
+   <nym xml:id="">
+      <form type="lemma">Felicis</form>
+   </nym>
+   <nym xml:id="Lucio">
+      <form type="lemma">Lucio</form>
+   </nym>
+   <nym xml:id="">
+      <form type="lemma">Pii</form>
+   </nym>
+   <nym xml:id="">
+      <form type="lemma">Septimi</form>
+   </nym>
+   <nym xml:id="">
+      <form type="lemma">Severi</form>
+   </nym>
+</listNym>

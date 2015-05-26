@@ -68,7 +68,7 @@
                                     </td>
                                         
                                         <td>
-                                            <xsl:for-each select="current-group()"><a target="_blank" href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
+                                            <xsl:for-each select="current-group()"><a target="_blank" href="{concat('/iscrizioni/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
                                         </td>
 
                                </tr>
@@ -92,7 +92,7 @@
                                     </a>
 </td>                                  <td>  <xsl:text> (total: </xsl:text><xsl:value-of select="count(current-group())"/><xsl:text>)</xsl:text></td>
                                     <td>
-                                        <xsl:for-each select="current-group()"><a target="_blank" href="{concat('/text/',../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../tei:fileDesc/tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
+                                        <xsl:for-each select="current-group()"><a target="_blank" href="{concat('/iscrizioni/',../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../tei:fileDesc/tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
                                     </td>
                                     
                                 </tr>
@@ -119,7 +119,7 @@
                                     
                                     
                                     <td>
-                                        <xsl:for-each select="current-group()"><a target="_blank" href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
+                                        <xsl:for-each select="current-group()"><a target="_blank" href="{concat('/iscrizioni/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
                                     </td>                                    
                                 </tr>
                             </xsl:for-each-group>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPerson>
+   <person>
+      <persName xml:id="">Lucio Aradio</persName>
+      <floruit notBefore="0340" notAfter=""/>
+      <relationship/>
+   </person>
+   <person>
+      <persName xml:id="">Septimi Severi 
+                Pii Felicis</persName>
+      <floruit notBefore="0211" notAfter=""/>
+      <relationship/>
+   </person>
+</listPerson>
